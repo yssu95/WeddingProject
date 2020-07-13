@@ -51,3 +51,11 @@ BackEnd, FrontEnd 개발
 ***9주차***
 
 디버깅, 보고서 작성, 발표준비
+
+***
+
+### 시연영상
+
+- [웹 페이지 시연 영상]
+
+(https://drive.google.com/file/d/154vx0q4q8vKgcbPDcLdCPJa-mRzt3Jic/view?usp=sharing)
