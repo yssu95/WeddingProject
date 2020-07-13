@@ -58,4 +58,4 @@ BackEnd, FrontEnd 개발
 
 - [웹 페이지 시연 영상]
 
-(https://drive.google.com/file/d/154vx0q4q8vKgcbPDcLdCPJa-mRzt3Jic/view?usp=sharing)
+https://drive.google.com/file/d/154vx0q4q8vKgcbPDcLdCPJa-mRzt3Jic/view?usp=sharing
