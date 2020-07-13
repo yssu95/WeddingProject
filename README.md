@@ -1,6 +1,6 @@
 # WeddingProject
 
-![image](https://user-images.githubusercontent.com/63235257/87305051-c916ed80-c550-11ea-92b3-49a965f8600c.png )
+![image](https://user-images.githubusercontent.com/63235257/87305051-c916ed80-c550-11ea-92b3-49a965f8600c.png)
 
 예약실에 일일이 문의하지 않고도 최저가를 알아볼 수 있는 길을 열어드립니다
 대한민국에는 수많은 결혼관련 업체들이 존재합니다
@@ -12,20 +12,21 @@
 ***
 
 ### 사용기술
-+Spring
-+java
-+myBatis
-+Oracle DB
-+Apache Tomcat
-+Spring security
-+jsp
-+ajax
-+xml
-+JavaScript/jQuery
-+bootstrap
-+html, css
-+iamport, kakaoMap , KaKaopay
-+Github
+
++ Spring
++ java
++ myBatis
++ Oracle DB
++ Apache Tomcat
++ Spring security
++ jsp
++ ajax
++ xml
++ JavaScript/jQuery
++ bootstrap
++ html, css
++ iamport, kakaoMap , KaKaopay
++ Github
 
 ***
 
