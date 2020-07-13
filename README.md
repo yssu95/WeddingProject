@@ -9,35 +9,35 @@
 이런 불편함을 해소하고, 예비부부님들의 편의를 위해, 최적의 결혼 환경을 만들어 드리고자
 웹 사이트를 구현 하였습니다.
 
---------------------------------------------------------------------------------------------------------------------
+***
 
-사용기술
-Spring
-java
-myBatis
-Oracle DB
-Apache Tomcat
-Spring security
-jsp
-ajax
-xml
-JavaScript/jQuery
-bootstrap
-html, css
-iamport, kakaoMap , KaKaopay
-Github
+###사용기술
++Spring
++java
++myBatis
++Oracle DB
++Apache Tomcat
++Spring security
++jsp
++ajax
++xml
++JavaScript/jQuery
++bootstrap
++html, css
++iamport, kakaoMap , KaKaopay
++Github
 
---------------------------------------------------------------------------------------------------------------------
+***
 
-개발일정
-1주차
+###개발일정
++***1주차***
 주제 회의 및 아이디어 토론 
 
-2주차
++***2주차***
 기능구상 및 DB제작
 
-3~8주차
++***3~8주차***
 BackEnd, FrontEnd 개발
 
-9주차
++***9주차***
 디버깅, 보고서 작성, 발표준비
